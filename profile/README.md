@@ -20,8 +20,3 @@ We welcome contributions from the community! Check out our [contribution guideli
 
 - Website: [https://docprompt.io](https://docprompt.io)
 - Documentation: [https://docs.docprompt.io](https://docs.docprompt.io)
-- Twitter: [@DocPromptAI](https://twitter.com/DocPromptAI)
-
-## License
-
-Our open-source projects are typically licensed under the MIT License. Please check individual repositories for specific licensing information.
